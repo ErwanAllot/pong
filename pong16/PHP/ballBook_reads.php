@@ -1,0 +1,1 @@
+<?php echo file("../TXT/ballBook.txt")[0]; ?>
